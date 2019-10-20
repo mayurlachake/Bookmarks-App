@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Requirements
+* Ruby version-: 2.6.4
+* System dependencies-: Rails 6.0.0 , Windows7-8-10, Ubuntu 
+* Database creation-: SQLite
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+About BOOKMARKS APP
+  This app provides users to store their Bookmarks with link. Where user can create their account and login to their account. After logging in to the account user can manage their resoective bookamrks. User can edit, delete or update their information. Using this app user can get quick access to thir important bookmarks.
